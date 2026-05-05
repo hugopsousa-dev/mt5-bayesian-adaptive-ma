@@ -1,0 +1,21 @@
+# MetaTrader 5 / MQL5
+*.ex5
+*.ex4
+*.tpl
+
+# MQL5 build / cache
+*.log
+*.lock
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
